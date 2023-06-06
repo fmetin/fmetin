@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih. I'm working as a Software Developer at Softtech</h1>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **https://www.linkedin.com/in/ffatihmetin**
 
 <h3 align="left">Languages and Tools:</h3>
