@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatih. I'm working as a Software Developer at Softtech</h1>
+<h1 align="center">Hi 👋, I'm Fatih. I'm working as a Software Developer at Atmosware</h1>
 
 - 📫 How to reach me **https://www.linkedin.com/in/ffatihmetin**
 
